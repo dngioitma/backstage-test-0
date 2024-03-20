@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: 'dngioitma/backstage-test-0'
 spec:
-  type: website
+  type: service
   lifecycle: experimental
   owner: guests
